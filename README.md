@@ -41,4 +41,4 @@ Output file: `calculator (yyyy-MM-dd).txt` in the same folder as the script.
 ## Notes
 
 - Only retrieves passwords for networks already saved on this machine.
-- Use responsibly and only on systems you own or are authorized to access.
+- Use responsibly and only on systems you own or are authorized to access. :)
